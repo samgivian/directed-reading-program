@@ -1,1 +1,1 @@
-# directed-reading-program
+# UCLA Directed Reading Program - Fall 2023
